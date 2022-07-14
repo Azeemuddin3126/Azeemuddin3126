@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azeemuddin3126
+- 👋 Hi, I’m Azeemuddin Shaik
 - 👀 I’m interested in Exploring in Data Science | ML
 - 🌱 I’m currently learning  Data Science | ML | Data Analytics
 - 💞️ I’m looking to collaborate on Data Science | ML | Data Analytics projects
