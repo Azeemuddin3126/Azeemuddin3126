@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning  Data Science | ML | Data Analytics
 - 💞️ I’m looking to collaborate on Data Science | ML | Data Analytics projects
 - 📫 How to reach me 
--     https://www.linkedin.com/in/azeemuddin-shaik-7b0139226  --->>>> LinkedIN  
+
+- 👀 https://www.linkedin.com/in/azeemuddin-shaik-7b0139226  --->>>> LinkedIN  
+- 📫 https://medium.com/@Azeemuddin3126
 
 <!---
 Azeemuddin3126/Azeemuddin3126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
