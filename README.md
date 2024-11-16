@@ -1,16 +1,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width='1000' alt="MasterHead">
 
-<h1 align="center">Hi 👋, I'm Azeemuddin Shaik</h1>
+<h1 align="center">Hi, I'm Azeemuddin Shaik</h1>
 <h3 align="center">Devops Enthusiast 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemuddin3126&label=Profile%20views&color=0e75b6&style=flat" alt="azeemuddin3126" /> </p>
 <img align="right" alt="Coding" width="220" src= "https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"; margin-right:50px;>
 
-- 🔭 I’m currently working on **Devops Projects**
+- I’m currently working on **Devops Projects**
 
-- 🌱 Upskilling in **Devops Tools and Skills as per Industrial**
+- Upskilling  **Devops Tools and Skills as per Industrial**
 
-- 📫 How to reach me **azeemuddinshaik3105@gmail.com**
+- Reach me **azeemuddinshaik3105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
